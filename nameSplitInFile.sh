@@ -6,4 +6,3 @@ do
 		echo "Firstname: $col1"
 	fi
 done <$file
-
