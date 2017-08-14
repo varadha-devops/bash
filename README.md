@@ -1,3 +1,1 @@
-# maven-project
-# python
-# bash
+# Teradata prescreen bash script
