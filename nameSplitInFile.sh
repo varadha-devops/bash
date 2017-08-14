@@ -1,5 +1,5 @@
 #!/bin/bash
-file="$HOME/data.txt"
+file="data.txt"
 echo "$file"
 while IFS=':' read -r col1 col2
 do
