@@ -1,8 +1,9 @@
 #!/bin/bash
 file="data.txt"
-echo "$file"
 while IFS=':' read -r col1 col2
 do
-    echo "$col1"
+    	if [ -n "$col1" ]; then
+		echo "Firstname: $col1"
+	fi
 done <$file
 

@@ -1,1 +1,2 @@
-# Teradata prescreen bash script
+Varadharajan:Sethuraman
+
